@@ -85,9 +85,24 @@
 
 ## ✨ Câu nói yêu thích
 
-<h3 align="center">
-  🧠 <i>“Chỉ là một ván cờ. Hạ cờ không hối tiếc.”</i> ♟️
-</h3>
+<table align="center">
+<tr>
+<td align="center" width="40%">
+  
+<i>“Chỉ là một ván cờ. Hạ cờ không hối tiếc.”</i>
+
+</td>
+<td align="center" width="60%">
+  
+<i>“Thế gian này không có người kém cỏi  
+bởi trên thế giới có muôn nẻo con đường  
+mà mỗi người đều có con đường của riêng mình.  
+Chỉ là chúng ta chọn những con đường khác nhau,  
+không có nghĩa là không tới được đích.”</i> 🌏  
+
+</td>
+</tr>
+</table>
 
 ---
 
