@@ -52,7 +52,7 @@
   <!-- Hàng 2: Streak (Chuỗi hoạt động) -->
 <!-- Hàng 2: Streak (Chuỗi hoạt động) - Đã sửa lỗi -->
 <a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=Banhcanhcua1107&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="[https://streak-stats.demolab.com/?user=Banhcanhcua1107&theme=tokyonight&hide_border=true](https://streak-stats.demolab.com/?user=Banhcanhcua1107&theme=tokyonight)" alt="GitHub Streak" />
 </a>
 
   <br/><br/>
